@@ -1,2 +1,2 @@
 # shini
-Getting started
+Getting started with github
